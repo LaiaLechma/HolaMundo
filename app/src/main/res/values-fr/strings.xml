@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalutleMonde</string>
+    <string name="titulo_app">Mon Salut le Monde</string>
+    <string name="texto_boton">Entrer</string>
+    <string name="texto_bienvenida">Bienvenue</string>
+</resources>
