@@ -32,7 +32,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/texto_bienvenida"
         android:id="@+id/textView2"
-        android:layout_marginTop="39dp"
+        android:layout_marginTop="34dp"
         android:textColor="#ffffff"
         android:textSize="?android:attr/textAppearanceLarge"
         android:textStyle="bold"
