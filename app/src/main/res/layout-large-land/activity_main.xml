@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.laialechma.holamundo.MainActivity">
+    tools:context="com.laialechma.holamundo.MainActivity"
+    android:background="@drawable/boton_fondo">
 
     <ImageView
         android:layout_width="wrap_content"
@@ -25,7 +26,8 @@
         android:layout_marginTop="31dp"
         android:text="@string/texto_boton"
         android:layout_below="@+id/textView2"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/boton_fondo" />
 
     <TextView
         android:layout_width="wrap_content"
