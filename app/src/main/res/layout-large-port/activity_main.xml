@@ -11,6 +11,7 @@
         android:id="@+id/imageView"
         android:background="@drawable/marcianito"
         android:contentDescription="Fondo de pantalla"
+        android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
         android:layout_alignParentTop="true" />
 
@@ -20,8 +21,7 @@
         android:id="@+id/button"
         android:text="@string/texto_boton"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"
-        android:background="@drawable/boton_fondo" />
+        android:layout_centerHorizontal="true" />
 
     <TextView
         android:layout_width="wrap_content"
